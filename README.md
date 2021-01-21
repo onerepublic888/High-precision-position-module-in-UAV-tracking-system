@@ -2,7 +2,7 @@
 ## 經緯無人機計畫-無人機自動跟蹤系統
 
 ### Hardware Setup
-![image](擷取0.PNG)
+![image](擷取.PNG)
 
 
 ### System Block Diagram
